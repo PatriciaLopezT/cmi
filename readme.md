@@ -8,35 +8,33 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Limbo
 
 **Web:**   (url github.io)
 
 **Autor:**  Patricia Lucía López Telyubaeva
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : La historia de como un viajero trata de quitarse la maldición de convertirse en una rana.
 
-**Estilo/género:**  Visual novel point and click 
+**Estilo/género:**  Novela visual; estilo point and click
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1280 x 720 px 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome, firefox
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 30mb
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 28/05/2025
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
