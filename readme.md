@@ -23,7 +23,8 @@ La historia de Garu, un viajero que un día desea dejar de ser humano. Su deseo 
 - Itch.io: [https://nurshv.itch.io/limbo](https://nurshv.itch.io/limbo)
 
 **Logotipo:**  
-src="logolimbo.png" alt="garu rana" height="100
+<img src="logolimbo.png" alt="Logotipo de LIMBO" height="300">
+
 
 > *Diseño pixelado para reflejar el carácter retro del juego, inspirado en títulos como Kirby y Blasphemous. La estrella simboliza el deseo y la transformación mágica.*
 
@@ -118,7 +119,6 @@ Este proyecto fue un gran reto creativo y técnico. Me permitió **mejorar mis h
 - Godot Engine  
 - Procreate  
 - Pixquare  
-- Hippani Animator 5.1
 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
