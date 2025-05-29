@@ -1,140 +1,124 @@
-## Limbo
+## LIMBO
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+**Proyecto de Creación Multimedia Interactiva**  
+Facultad de Bellas Artes — Universidad de Granada
 
+---
 
+# 1. Datos
 
-# 1 Datos 
+**Título:** Limbo  
+**Web:** [https://nurshv.itch.io/limbo](https://nurshv.itch.io/limbo)  
+**Autor:** Patricia Lucía López Telyubaeva  
+**Resumen:**  
+La historia de Garu, un viajero que un día desea dejar de ser humano. Su deseo es escuchado por una voz misteriosa que lo convierte en rana. Ahora, deberá explorar el mundo en busca de la forma de romper su maldición.  
+**Estilo/Género:** Novela visual interactiva; estilo *point and click* con elementos narrativos y minijuegos.  
+**Resolución:** 1280 x 720 px  
+**Probado en:** Google Chrome, Firefox  
+**Tamaño del proyecto:** 30 MB  
+**Licencia:** Creative Commons Reconocimiento Compartir Igual (CC BY-SA)  
+**Fecha:** 28/05/2025  
+**Medios:**
+- GitHub  
+- Itch.io: [https://nurshv.itch.io/limbo](https://nurshv.itch.io/limbo)
 
+**Logotipo:**  
+<img src="logolimbo.png" alt="logotipo limbo" height="100">
 
+> *Diseño pixelado para reflejar el carácter retro del juego, inspirado en títulos como Kirby y Blasphemous. La estrella simboliza el deseo y la transformación mágica.*
 
-**Titulo** : Limbo
+---
 
-**Web:**   (url github.io)
+# 2. Memoria del Proyecto
 
-**Autor:**  Patricia Lucía López Telyubaeva
+## 2.1 Storyboard
 
-**Resumen** : La historia de como un viajero trata de quitarse la maldición de convertirse en una rana.
+La historia sigue a **Garu**, un viajero que, hastiado de su vida como humano, desea dejar de serlo. Su deseo es concedido y es transformado en rana. A lo largo del juego, Garu explora escenarios extraños, resuelve minijuegos y toma decisiones que lo acercan (o alejan) de su humanidad perdida.
 
-**Estilo/género:**  Novela visual; estilo point and click
+**Imágenes de apoyo:**  
+<img src="iconolimbo.jpg" alt="garu rana" height="100">
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+*(Puedes añadir más capturas aquí si lo deseas.)*
 
-(insertar imágenes a resolucion de 100px alto)
+---
 
-**Resolución:** 1280 x 720 px 
+## 2.2 Esquema de Navegación
 
-**Probado en:**   Google Chrome, firefox
+(Agregar una imagen del mapa de navegación hecho en draw.io u otra herramienta visual.)
 
-**Tamaño proyecto:** 30mb
-
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
-
-**Fecha** : 28/05/2025
-
-**Medios** (donde se tiene presencia relacionada):
-
-- Github
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
-# 2. Memoria del proyecto 
-
-### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
+---
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Metodología de desarrollo basada en diseño centrado en la experiencia de usuario (UX).
 
+## Etapa 1: Ideación del proyecto
 
+**Inspiración visual y técnica:**
+- [Leonardi Web page](http://www.rleonardi.com/interactive-resume/)
+- Juegos como *Blasphemous* y *Kirby* clásicos
 
-### Etapa 1: Ideación de proyecto
+**Motivación:**  
+Me encantan el arte en píxeles y la fantasía. Nunca pensé que podría desarrollar un juego, y este proyecto me permitió explorar esa posibilidad.
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Público objetivo:**  
+Adolescentes y jóvenes interesados en novelas visuales, decisiones narrativas y mundos de fantasía.
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+---
 
+## Etapa 2: Desarrollo
 
+**Contenido incluido:**
+- Decisiones interactivas que afectan el curso del juego
+- Animaciones en pixel art
+- Galería visual de personajes
+- Texto narrativo
+- Música y efectos sonoros
+- Video introductorio
+- Minijuego de cartas
 
-**Motivación de la propuesta** 
+---
 
-Este  proyecto es interesante porque ... 
+## Etapa 3: Problemas detectados
 
+- El punto más débil del juego es su **duración**. Me hubiera gustado poder desarrollarlo más para tener una historia más completa y ramificada.
 
+---
 
-**Publico / audiencia**
+# 4. Conclusiones
 
-- Orientado a 
+Este proyecto fue un gran reto creativo y técnico. Me permitió **mejorar mis habilidades de animación** y aprender nuevas herramientas como **Godot**. Me exprimió al máximo creativamente.
 
+**A futuro me gustaría:**
+- Ampliar la historia
+- Incluir más minijuegos
+- Añadir más personajes y decisiones con múltiples finales
 
+---
 
+# 5. Referencias
 
+### Artículos y blogs
 
-### Etapa 2: Desarrollo / actividades realizadas
+- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*. First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+### Recursos y materiales
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+**Música:**  
+- Compositor: Pizza Doggy — disponible gratuitamente en Itch.io
 
+**Tipografía:**  
+- Undertale Sans OTF
 
+**Imágenes:**  
+- Ilustraciones propias en pixel art
 
-### Etapa 3: Problemas identificados
+### Herramientas utilizadas
 
-(que consideras que no  funciona correctamente y por qué )
-
-
-
-# 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
-
-
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
-**Recursos y materiales audiovisuales:**
-
-* Musica:  
-* Imágenes:  
-* Tipografía
-
-**Herramientas utilizadas**
-
+- Godot Engine  
+- Procreate  
+- Pixquare  
 - Hippani Animator 5.1
-- 
-
 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
